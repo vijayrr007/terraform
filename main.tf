@@ -7,4 +7,4 @@ resource "aws_instance" "example" {
   instance_type = "t2.micro"
 }
 #Added comment from Master branch
-
+#Added 2nd comment
